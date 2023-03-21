@@ -27,13 +27,14 @@ Entire framework of the proposed multi-sensor collaboration network (MSCN) for v
 ![network](https://user-images.githubusercontent.com/55533905/226543635-d3e3a8ad-c706-424e-9506-2662719ef2f6.png)
  Network architecture of CDSR in sampling factor 1. The sampling factor 1 means that depth frame has the same size as color frame.
  
-#Dependencies
+# Dependencies
 
 network training: pytorch 1.8.0
 
 training dataset compressed by HM16.16
 
 testing dataset compressed by 3D-HEVC
+
 
 If you find our work useful in your research or publication, please cite our work:
 
