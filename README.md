@@ -21,6 +21,8 @@ f2net.py: network of CDSR in sampling factor 2.
 
 f4net.py: network of CDSR in sampling factor 4.
 
+test_model_l: test code.
+
 ![structure](https://user-images.githubusercontent.com/55533905/226543568-f8f0dfc5-839b-4e56-abc6-1ba1b711dfd3.png)
 Entire framework of the proposed multi-sensor collaboration network (MSCN) for video compression. CDSR: Color guided depth super-resolution.
 
@@ -35,6 +37,7 @@ training dataset compressed by HM16.16
 
 testing dataset compressed by 3D-HEVC
 
+# Cite
 
 If you find our work useful in your research or publication, please cite our work:
 
