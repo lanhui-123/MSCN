@@ -1,6 +1,6 @@
 # MSCN
 
-This is the official code of "Multi-Sensor Collaboration Network for Video Compression Based on Wavelet Decomposition", pubished in TCSVT 2022
+This is the official code of "Multi-Sensor Collaboration Network for Video Compression Based on Wavelet Decomposition", pubished in TCSVT 2023
 paper: [Multi-Sensor Collaboration Network for Video Compression Based on Wavelet Decomposition](https://ieeexplore.ieee.org/document/9866775)
 
 # Description
@@ -44,7 +44,7 @@ If you find our work useful in your research or publication, please cite our wor
 [1] H. Lan, Z. Ji, C. Jung, D. Zou and M. Li, "Multisensor Collaboration Network for Video Compression Based on Wavelet Decomposition," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 33, no. 1, pp. 434-444, Jan. 2023, doi: 10.1109/TCSVT.2022.3201697.
 
 
-@ARTICLE{9866775,
+@ARTICLE{lan2023multisensor,
 
   author={Lan, Hui and Ji, Zhe and Jung, Cheolkon and Zou, Dan and Li, Ming},
   
